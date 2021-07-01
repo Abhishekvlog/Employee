@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AddUser</string>
+    <string name="joanthan">joanthan</string>
+    <string name="doe">Doe</string>
+    <string name="email">joanthanDoe@cketec.com</string>
+
+</resources>
